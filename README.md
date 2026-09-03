@@ -1,4 +1,4 @@
-# Hi, I'm Abhishek Kumar 👋
+# Hi, I'm Abhishek Kumar 
 
 **Software Engineer focused on scalable systems, cloud infrastructure, and reliable production engineering.**
 
@@ -8,7 +8,7 @@ I enjoy working on the parts of software engineering that sit beneath the surfac
 
 ---
 
-## 🧑‍💻 What I Do
+## What I Do
 
 * Design and build **production-ready backend systems**
 * Build and manage **cloud infrastructure**
